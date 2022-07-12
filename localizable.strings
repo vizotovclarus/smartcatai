@@ -1,0 +1,5 @@
+/* Button text to dismiss missing contacts permission alert */
+"AB_PERMISSION_MISSING_ACTION_NOT_NOW" = "Not Now";
+
+/* Action sheet item */
+"ACCEPT_NEW_IDENTITY_ACTION" = "Accept New Safety Number";
